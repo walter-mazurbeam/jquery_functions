@@ -1,0 +1,28 @@
+article {
+  display: block;
+  border-bottom: 2px solid black;
+}
+
+article h1 {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+article p {
+  width: 50%;
+  margin-left: ;
+}
+
+article button {
+  margin: 20px;
+  vertical-align: top;
+}
+
+article * {
+  display: inline-block;
+}
+
+.red {
+  background-color: red;
+}
